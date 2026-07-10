@@ -1,0 +1,38 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+45335d6e-41ba-4397-8b3f-169237c3ab1e:Backgrounds:Backgrounds
+bf6acb4e-7b51-4276-a937-75044375df66:Backgrounds/Others:Backgrounds-Others
+bd34d2e3-4364-4786-99a9-2b089fb656a8:Bradley:Bradley
+deaa3ac4-f717-4ce6-aaec-ea73fb0f5a94:Bradley/Animaciones:Bradley-Animaciones
+4faf1115-6546-41ec-a628-d9f68c059587:Bradley/Chibi:Bradley-Chibi
+8be22ca1-2875-4955-94ea-015189a5c510:Bradley/Chibi/cabeza:Bradley-Chibi-cabeza
+42983c03-2ea0-4cfd-9cb2-21ce6fc20d15:Bradley/Chibi/cabeza/cejas:Bradley-Chibi-cabeza-cejas
+593a3744-4889-4713-be28-4fd15abc2aa3:Bradley/Chibi/cuerpo:Bradley-Chibi-cuerpo
+88189306-ffdb-448f-8100-7c4d9a8702c7:Bradley/cabeza:Bradley-cabeza
+328fffdb-3051-40e1-aecd-84212651e67e:Bradley/cabeza/Accesorios:Bradley-cabeza-Accesorios
+d856e5b5-fb9d-403e-83f0-67569e2db014:Bradley/cabeza/bocas:Bradley-cabeza-bocas
+367a0c4e-14f4-4476-a96a-eca570d91c61:Bradley/cabeza/cara:Bradley-cabeza-cara
+32301d9b-7fa4-42bb-a08a-9625a3667fcc:Bradley/cabeza/cejas:Bradley-cabeza-cejas
+5506f657-0c37-436a-a076-3c0e6fd5bdfa:Bradley/cabeza/nariz:Bradley-cabeza-nariz
+082bf25d-7df2-4d6e-9d57-760a5427f473:Bradley/cabeza/ojos:Bradley-cabeza-ojos
+0ca4efa8-1bc9-4255-9a13-53dc47d87e55:Bradley/cuerpo:Bradley-cuerpo
+a4176e74-169b-4e7a-a5fc-a59c31a85acd:Bradley/cuerpo/Manos:Bradley-cuerpo-Manos
+e32058b4-9f7b-4116-937f-3ef312b9c8ae:Bradley/cuerpo/brazos:Bradley-cuerpo-brazos
+cc16fe1f-471b-460a-aa90-bd89761a615c:Bradley/cuerpo/brazos/Antebrazos:Bradley-cuerpo-brazos-Antebrazos
+5e5abef9-1982-4689-8771-0789081177b4:Bradley/cuerpo/brazos/MedioBrazo:Bradley-cuerpo-brazos-MedioBrazo
+59d35940-94a5-4633-a0ad-275c381743f2:Bradley/cuerpo/piernas:Bradley-cuerpo-piernas
+b23d4d2a-d923-49e5-a707-cedccd85be46:Bradley/cuerpo/torso:Bradley-cuerpo-torso
+c717d3ef-662b-484e-8123-12c2bee94eac:Bradley/cuerpo/torso/Chaleco:Bradley-cuerpo-torso-Chaleco
+8b257ff9-4013-477a-8162-eafbf678a33e:Bradley/cuerpo/torso/Cult:Bradley-cuerpo-torso-Cult
+69cddb40-f931-42c7-bf3c-8d4a7391a729:Bradley/cuerpo/torso/Gamma:Bradley-cuerpo-torso-Gamma
+36f89b46-c0c4-4e6d-80bb-bc969e96606c:Max:Max
+e052c307-75e0-410f-93ab-9af59fff0f36:Max/Chibi:Max-Chibi
+b55b830f-2da4-41f8-b041-984b40ca77d4:Max/Chibi/Animaciones:Max-Chibi-Animaciones
+cc9c0816-236d-473f-a156-e9821f1f9655:Max/Chibi/cabeza:Max-Chibi-cabeza
+ef3408a0-e3da-456e-8c17-2e4127fcf1cc:Max/Chibi/cuerpo:Max-Chibi-cuerpo
