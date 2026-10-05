@@ -39,4 +39,7 @@ b55b830f-2da4-41f8-b041-984b40ca77d4:Max/Chibi/Animaciones:Max-Chibi-Animaciones
 cc9c0816-236d-473f-a156-e9821f1f9655:Max/Chibi/cabeza:Max-Chibi-cabeza
 ef3408a0-e3da-456e-8c17-2e4127fcf1cc:Max/Chibi/cuerpo:Max-Chibi-cuerpo
 04a9238e-1247-4e55-b79f-3983c52a8616:Max/Cuerpo:Max-Cuerpo
+977b8de6-7160-47c2-941b-eebe8a7d4e0e:Mona:Mona
 52c17e49-024d-49e3-ac59-5b749a43a773:Props:Props
+4d95f219-4179-4b42-9e84-1da4197fa7e6:Roxanne:Roxanne
+c74f444f-c4fc-4b6d-8c3d-b2be4abd5dbf:Roxanne/PRESETS:Roxanne-PRESETS
